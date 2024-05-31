@@ -7,5 +7,3 @@
  lambourgini
  Jeep
  Porche
-ford
-cheverolet
